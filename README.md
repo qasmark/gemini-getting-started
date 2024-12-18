@@ -2,6 +2,14 @@
 
 To start, you need to get API-key.
 
+1) Create file *.env* in current directory
+
+2) Add in first line:
+
+```python
+GOOGLE_API_KEY=YOUR_API_KEY
+```
+
 ## Description
 
 This sciprt use to getting-started with Gemini AI API.
